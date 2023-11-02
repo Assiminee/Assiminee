@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Assiminee
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C, SQL, JavaScript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: znatni.yasmine@gmail.com
-
-<!---
-Assiminee/Assiminee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Computer Science Student
+🚀 Passionate about coding, algorithms, and problem-solving
+🌐 Exploring the digital universe one line of code at a time
+📚 Always learning, always evolving
